@@ -2,7 +2,8 @@
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
- */
+* First file in GitHub 04/12/2020
+*/
 package dogwalkermitzy;
 
 import static dogwalkermitzy.UserInputs.ValidUserNum;
